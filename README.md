@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Swappycoder
-- 👀 I’m interested in ... artificial intelligence
-- 🌱 I’m currently learning ...c language
+- 👀 I’m interested in ... Data Analyst
+- 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... mohitkhade11@gmail.com
 
 <!---
 Swappycoder/Swappycoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
