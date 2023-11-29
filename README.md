@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swappycoder
-- 👀 I’m interested in ... Data Analyst
-- 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full Stack DEV
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on Website Development
 - 📫 How to reach me ... mohitkhade11@gmail.com
 
 <!---
